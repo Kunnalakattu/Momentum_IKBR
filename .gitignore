@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# VS Code / IDE
+.vscode/
+
+# Claude Code settings (local permissions — don't share)
+.claude/
+
+# Generated outputs (reproducible from code)
+output/
+
+# Secrets / credentials
+*.key
+*.pem
+credentials.json
